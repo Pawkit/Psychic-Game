@@ -1,5 +1,5 @@
 // alert("Are you ready?")
-// alert("Type a letter on the keyboard and try to guess what letter I'm thinking of...")
+alert("Type a letter on the keyboard and try to guess what letter I'm thinking of...")
 
 // GLOBAL VARIABLES
 // Arrays and variables for holding data
